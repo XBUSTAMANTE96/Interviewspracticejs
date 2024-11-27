@@ -1,20 +1,20 @@
 # Interviewspracticejs
-<p>Basic array methods</p>
-<p>Array lenght </p>
-<p>Array tostring</p>
-<p>Array at</p>
-<p>Array join</p>
-<p>Array pop</p>
-<p>Array push</p>
-<p>Array shift</p>
-<p>Array Unshift</p>
-<p>Array Delete</p>
-<p>Array Concat</p>
-<p>Array copywithin</p>
-<p>Array Flat</p>
-<p>Array Splice</p>
-<p>Array tospliced</p>
-<p>Array Slice</p>
+<h2>Basic array methods</h2>
+<li>Array lenght </li>
+<li>Array tostring</li>
+<li>Array at</li>
+<li>Array join</li>
+<li>Array pop</li>
+<li>Array push</li>
+<li>Array shift</li>
+<li>Array Unshift</li>
+<li>Array Delete</li>
+<li>Array Concat</li>
+<li>Array copywithin</li>
+<li>Array Flat</li>
+<li><p>Array Splice</li>
+<li>Array tospliced<</li>
+<li>Array Slice</li>
 
 
 
