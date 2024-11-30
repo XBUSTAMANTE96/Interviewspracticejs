@@ -15,10 +15,11 @@
 
 <li>Linked list</li>
 <p></p>
-<img src="https://open4tech.com/wp-content/uploads/2019/03/array-linked-list.png" width='250'>
+<img src="https://open4tech.com/wp-content/uploads/2019/03/array-linked-list.png" width='350'>
 
 <li>Srings</li>
-
+<p></p>
+<img src="https://open4tech.com/wp-content/uploads/2019/03/array-linked-list.png" width='350'>
 
 
 
@@ -30,6 +31,7 @@
 Linear structures:* arrays, linked lists, strings.
     - *Nonlinear structures:* trees, graphs.
   - Focus on pre-built code templates for these patterns.
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='350'>
 
 - *Linear Data Structure Patterns:*
   1. *Two Pointers:*
