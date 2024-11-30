@@ -42,17 +42,49 @@
 <p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
 
 <h2>Despues tenemos los Graficos(graphs)</h2>
-<p>Un gráfico o grafo es una estructura que consiste en un conjunto de nodos (también llamados vértices) conectados por aristas (también llamados enlaces o arcos). Los grafos son increíblemente útiles para modelar relaciones y conexiones entre diferentes entidades.</p>
- <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
-
-<p>Los graficos tambien estan divididos de la siguiente manera</p>
-
-
+<p>Tipos de Grafos en Estructuras de Datos
+Un grafo es una estructura de datos no lineal compuesta por nodos y aristas. <p> La Cantidad total de de Tipos de Grafos
+Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más comúnmente usado es el grafo finito..</p>
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
 <h3> Finite Graph</h3>
 <p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
 
 <h3>Características</h3>
 <p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.</p>
+
+<li>Grafos Infinitos</li>
+
+<li>Grafos Triviales</li>
+
+<li>Grafos Simples</li>
+
+<li>Grafos Múltiples</li>
+
+<li>Grafos Nulos</li>
+
+<li>Grafos Completos</li>
+
+<li>Pseudo Grafos</li>
+
+<li>Grafos Regulares</li>
+
+<li>Grafos Etiquetados</li>
+
+<li>Grafos Dirigidos</li>
+
+<li>Subgrafos</li>
+
+<li>Grafos Conectados o Desconectados</li>
+
+<li>Grafos Cíclicos</li>
+
+
+ 
+
+<p>Los graficos tambien estan divididos de la siguiente manera</p>
+
+
+
 
 <p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.<p>
 
@@ -73,6 +105,9 @@
 <p>Por ejemplo cuando entras a la aplicacion de mapas, para encontrar la ruta más corta entre dos puntos en un mapa. Aqui el peso va a representar la distancia entre las ciudades.</p>
 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
+
+
+
 
 - *Linear Data Structure Patterns:*
   1. *Two Pointers:*
