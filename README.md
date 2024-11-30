@@ -27,7 +27,7 @@
 
 <li>representados por arboles(trees)</li>
 <p>Que a su vez esta dividido en 3, 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='350'>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='550'>
 
 <li>Binary trees</li>
 <li>Temary tree</li>
