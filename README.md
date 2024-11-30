@@ -41,7 +41,7 @@
 <p>los ternary-trees:Son utiles para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.</p>
 <p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
 
-<h2>Despues tenemos los Graficos(graphs)</p>
+<h2>Despues tenemos los Graficos(graphs)</h2>
 
 
 
