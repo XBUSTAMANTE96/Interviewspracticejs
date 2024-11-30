@@ -77,18 +77,11 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 <li>Grafos Conectados o Desconectados</li>
 
 <li>Grafos Cíclicos</li>
+<p> si te interesa profundizar en todos, puedes ingresar al siguiente link</p>
+<a href="https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure"></a>
 
 
- 
-
-<p>Los graficos tambien estan divididos de la siguiente manera</p>
-
-
-
-
-<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.<p>
-
-<p>Los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
+ <p>Como los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, vamos a enfocarnos mayormente en ellos desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
 
 <h3> Y adivina que, los Grafos Finitos, tambien estan divididos</h3>
 <li>Su primer division son los Grafos no Dirigido:</li>
@@ -103,6 +96,15 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 <li>Y por ultimo los Grafo Ponderado: Las aristas tienen un peso o costo asociado.</li>
 
 <p>Por ejemplo cuando entras a la aplicacion de mapas, para encontrar la ruta más corta entre dos puntos en un mapa. Aqui el peso va a representar la distancia entre las ciudades.</p>
+
+<p>Los graficos tambien estan divididos de la siguiente manera</p>
+
+
+
+
+<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.<p>
+
+
 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
 
