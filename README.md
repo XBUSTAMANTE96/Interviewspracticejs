@@ -26,10 +26,12 @@
 <h2>Y las estructuras no lineales</h2> 
 
 <li>representados por arboles(trees)</li>
-<p>Que a su vez esta dividido en 3, 
+<p>Un arbol en las estructuras, es una manera de acomodar los datos por niveles, desde un nivel padre que va desde arriba, pasando por niveles mas bajos, que serian hijos y estos hijos a su vez pueden tener mas hijos y hermanos</p>
+<p>Esta estructura de datos a su vez, esta dividida en 3</p>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='550'>
 
 <li>Binary trees</li>
+<p> </p>
 <li>Temary tree</li>
 <li> N-ary tree</li>
 
