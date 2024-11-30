@@ -84,7 +84,7 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
  <p>Como los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, vamos a enfocarnos mayormente en ellos desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
 
 <h3> Y adivina que, los Grafos Finitos, tambien estan divididos</h3>
-<li>Su primer division son los Grafos no Dirigido:</li>
+<li>Su primer division son los Grafos no dirigidos:</li>
 <p> Las aristas no tienen dirección, es decir, la relación entre dos nodos es bidireccional.</p>
 
 <p> Por ejemplo la Representación de amistades en una red social, tu puedes entrar al perfil de tu amigo en una red social, y al tuyo</p>
