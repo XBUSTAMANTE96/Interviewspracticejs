@@ -31,9 +31,18 @@
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='550'>
 
 <li>Binary trees</li>
-<p> </p>
-<li>Temary tree</li>
+<p>Un árbol binario es una estructura de datos en la que cada padre(nodo) tiene a lo mucho dos hijos, que se denominan típicamente "hijo izquierdo" e "hijo derecho". Es similar a un árbol familiar con ramas, pero en este caso, cada nodo puede tener como máximo dos "ramas". </p>
+<li>Ternary tree</li>
+<p>Un árbol ternario a diferencia de un arbol binario, permite cada padre(nodo) tener hasta tres hijos.</p>
 <li> N-ary tree</li>
+<p>Un arbol N-ary no tiene ninguna restriccion para cada padre, puede tener un numero de hijos idefinidos.</p>
+<p>Y a lo mejor te estas preguntando cuando usar cual</p>
+<p>Árbol Binario: Ideal para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indexación.
+
+Árbol Ternario: Útil para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.
+
+Árbol N-ario: Perfecto para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
+
 
 
 <p>Graficos(graphs)</p>
