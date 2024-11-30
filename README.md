@@ -37,15 +37,11 @@
 <li> N-ary tree</li>
 <p>Un arbol N-ary no tiene ninguna restriccion para cada padre, puede tener un numero de hijos idefinidos.</p>
 <p>Y a lo mejor te estas preguntando cuando usar cual</p>
-<p>Árbol Binario: Ideal para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indexación.
+<p>Por ejemplo, los Binary tree, son ideales para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indexación.</p>
+<p>los ternary-trees:Son utiles para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.</p>
+<p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
 
-Árbol Ternario: Útil para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.
-
-Árbol N-ario: Perfecto para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
-
-
-
-<p>Graficos(graphs)</p>
+<h2>Despues tenemos los Graficos(graphs)</p>
 
 
 
