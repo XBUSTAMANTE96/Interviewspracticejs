@@ -24,20 +24,21 @@
 
 
 <h2>Y las estructuras no lineales</h2> 
+<p> O como me gustan llamarlas, los que estan compuestos de circulos(nodos) y palitos(vertices)</p>
 
-<li>representados por arboles(trees)</li>
-<p>Un arbol en las estructuras, es una manera de acomodar los datos por niveles, desde un nivel padre que va desde arriba, pasando por niveles mas bajos, que serian hijos y estos hijos a su vez pueden tener mas hijos y hermanos</p>
+<li>Arboles(trees)</li>
+<p>El primer tipo de estructura no lineal, son los arboles. Un arbol en las estructuras, es una manera de acomodar los datos por niveles, desde un nivel padre que va desde arriba, pasando por niveles mas bajos, que serian hijos y estos hijos a su vez pueden tener mas hijos y hermanos</p>
 <p>Esta estructura de datos a su vez, esta dividida en 3</p>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='550'>
 
 <li>Binary trees</li>
-<p>Un árbol binario es una estructura de datos en la que cada padre(nodo) tiene a lo mucho dos hijos, que se denominan típicamente "hijo izquierdo" e "hijo derecho". Es similar a un árbol familiar con ramas, pero en este caso, cada nodo puede tener como máximo dos "ramas". </p>
+<p>Un árbol binario es una estructura de datos en la que cada padre(nodo) tiene a lo mucho dos hijos, que se denominan típicamente "hijo izquierdo" e "hijo derecho". Es similar a un árbol familiar con ramas, pero en este caso, cada nodo puede tener como máximo dos "ramas". O mas facil empezamos por niveles el primer nivel de hasta arriba va a tener una bola(nodo) mayor que sera llamado padre y de ahi ira hacia los niveles mas bajos, en este caso para los binary trees, cada bolita que venga del nivel de arriba para abajo solo puede tener otras dos bolitas/hijos o nodos maximo hacia abajo </p>
 <li>Ternary tree</li>
-<p>Un árbol ternario a diferencia de un arbol binario, permite cada padre(nodo) tener hasta tres hijos.</p>
+<p>Un árbol ternario a diferencia de un arbol binario, permite cada padre(nodo) tener hasta tres hijos, 3 bolitas</p>
 <li> N-ary tree</li>
 <p>Un arbol N-ary no tiene ninguna restriccion para cada padre, puede tener un numero de hijos idefinidos.</p>
 <p>Y a lo mejor te estas preguntando cuando usar cual</p>
-<p>Por ejemplo, los Binary tree, son ideales para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indexación.</p>
+<p>Por ejemplo, los Binary tree, son ideales para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indices</p>
 <p>los ternary-trees:Son utiles para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.</p>
 <p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
 
@@ -50,7 +51,7 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 <p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
 
 <h3>Características</h3>
-<p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.</p>
+<p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.A diferencia de un tree o arbol, que va de arriba hacia abajo</p>
 
 <li>Grafos Infinitos</li>
 
