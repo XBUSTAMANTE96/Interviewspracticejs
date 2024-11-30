@@ -43,6 +43,7 @@
 
 <h2>Despues tenemos los Graficos(graphs)</h2>
 <p>Un gráfico o grafo es una estructura que consiste en un conjunto de nodos (también llamados vértices) conectados por aristas (también llamados enlaces o arcos). Los grafos son increíblemente útiles para modelar relaciones y conexiones entre diferentes entidades.</p>
+ <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
 
 <p>Los graficos tambien estan divididos de la siguiente manera</p>
 
@@ -70,7 +71,7 @@
 <p>Grafo Ponderado: Las aristas tienen un peso o costo asociado.</p>
 
 <p>Ejemplo: Red de carreteras donde el peso representa la distancia entre las ciudades.</p>
- <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
+
 
 
   - Focus on pre-built code templates for these patterns.
