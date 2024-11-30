@@ -78,7 +78,7 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <li>Grafos Cíclicos</li>
 <p> si te interesa profundizar en todos, puedes ingresar al siguiente link</p>
-<a href="https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure"></a>
+<a href="https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure"> LINK AQUI</a>
 
 
  <p>Como los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, vamos a enfocarnos mayormente en ellos desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
