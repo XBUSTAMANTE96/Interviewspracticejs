@@ -42,11 +42,14 @@
 <p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
 
 <h2>Despues tenemos los Graficos(graphs)</h2>
+<p>Un gráfico o grafo es una estructura que consiste en un conjunto de nodos (también llamados vértices) conectados por aristas (también llamados enlaces o arcos). Los grafos son increíblemente útiles para modelar relaciones y conexiones entre diferentes entidades.</p>
+
+<p>Los graficos tambien estan divididos de la siguiente manera</p>
 
 
+<li> Finite Graph</li>
 
-Linear structures:* arrays, linked lists, strings.
-    - *Nonlinear structures:* trees, graphs.
+
   - Focus on pre-built code templates for these patterns.
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
 
