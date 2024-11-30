@@ -19,13 +19,19 @@
 
 <li>Srings</li>
 <p></p>
-<img src="https://open4tech.com/wp-content/uploads/2019/03/array-linked-list.png" width='350'>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/String_example.png" width='350'>
 
 
 
 <h2>Y las estructuras no lineales</h2> 
-<p>representados por arboles(trees) y graficos(graphs)<p>
+
+<li>representados por arboles(trees)</li>
+<p>Que a su vez esta dividido en 3, 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='350'>
+
+
+<p>Graficos(graphs)</p>
+
 
 
 Linear structures:* arrays, linked lists, strings.
