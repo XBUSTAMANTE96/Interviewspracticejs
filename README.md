@@ -29,6 +29,10 @@
 <p>Que a su vez esta dividido en 3, 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230111154258/typoes1.png" width='350'>
 
+<li>Binary trees</li>
+<li>Temary tree</li>
+<li> N-ary tree</li>
+
 
 <p>Graficos(graphs)</p>
 
@@ -37,7 +41,7 @@
 Linear structures:* arrays, linked lists, strings.
     - *Nonlinear structures:* trees, graphs.
   - Focus on pre-built code templates for these patterns.
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='350'>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
 
 - *Linear Data Structure Patterns:*
   1. *Two Pointers:*
