@@ -45,13 +45,8 @@
 <h2>Despues tenemos los Graficos(graphs)</h2>
 <p>Tipos de Grafos en Estructuras de Datos
 Un grafo es una estructura de datos no lineal compuesta por nodos y aristas.En cuanto a estructura es muy similar a un tree debido a su similitud de nodos y aristas. La diferencia a los trees, es que un arbol va de un nivel jerarquico, de arriba hacia abajo. A diferencia de este tipo de grafico, que no va por niveles. <p> La Cantidad total de de Tipos de Grafos
-Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más comúnmente usado es el grafo finito..</p>
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
-<h3> Finite Graph</h3>
-<p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
+Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más comúnmente usado es el grafo finito, en el cual nos vamos a centrar en esta guia, aunque tambien te dejo la lista de los demas grafos y un link a una pagina que describe mas a fondo esto..</p>
 
-<h3>Características</h3>
-<p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.A diferencia de un tree o arbol, que va de arriba hacia abajo</p>
 
 <li>Grafos Infinitos</li>
 
@@ -80,6 +75,14 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 <li>Grafos Cíclicos</li>
 <p> si te interesa profundizar en todos, puedes ingresar al siguiente link</p>
 <a href="https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure"> LINK AQUI</a>
+
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
+<h3> Finite Graph</h3>
+<p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
+
+<h3>Características</h3>
+<p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.A diferencia de un tree o arbol, que va de arriba hacia abajo</p>
+
 
 
  <p>Como los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, vamos a enfocarnos mayormente en ellos desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
