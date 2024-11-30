@@ -88,7 +88,7 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 <h3> Y adivina que, los Grafos Finitos, tambien estan divididos</h3>
 <li>Su primer division son los Grafos no dirigidos:</li>
 <p> Las aristas no tienen dirección, es decir, la relación entre dos nodos es bidireccional.</p>
- <img src="https://cdn-icons-png.flaticon.com/512/1430/1430894.png" width='500'>
+ <img src="https://cdn-icons-png.flaticon.com/512/1430/1430894.png" width='300'>
 <p> Por ejemplo la Representación de amistades en una red social, tu puedes entrar al perfil de tu amigo en una red social, y al tuyo</p>
  <img src="https://img.freepik.com/vector-premium/redes-sociales-conexion-personas_29937-5078.jpg" width='500'>
 
