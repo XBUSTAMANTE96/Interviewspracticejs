@@ -48,6 +48,29 @@
 
 
 <li> Finite Graph</li>
+<p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces). Los grafos finitos son muy comunes y útiles en diversas áreas de la informática, las matemáticas y otras disciplinas.</p>
+
+<h3>Características de los Grafos Finitos</h3>
+<p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.</p>
+
+<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.<p>
+
+<p>Aplicaciones: Los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
+
+<h3> Y adivina que los Grafos Finitos, tambien estan divididos</h3>
+<p> su primer division son los Grafos No Dirigido: Las aristas no tienen dirección, es decir, la relación entre dos nodos es bidireccional.</p>
+
+
+<p>Ejemplo: Por ejemplo la Representación de amistades en una red social, tu puedes entrar al perfil de tu amigo en una red social, y al tuyo</p>
+
+<p>Grafo Dirigido (Digrafo): Las aristas tienen una dirección específica, lo que significa que la relación entre dos nodos es unidireccional.</p>
+
+<p>Ejemplo: Por ejemplo el Grafo de una página web con enlaces dirigidos hacia otras páginas </p>
+
+<p>Grafo Ponderado: Las aristas tienen un peso o costo asociado.</p>
+
+<p>Ejemplo: Red de carreteras donde el peso representa la distancia entre las ciudades.</p>
+ <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
 
 
   - Focus on pre-built code templates for these patterns.
