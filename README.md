@@ -45,7 +45,7 @@
 <h2>Despues tenemos los Graficos(graphs)</h2>
 <p>Tipos de Grafos en Estructuras de Datos
 Un grafo es una estructura de datos no lineal compuesta por nodos y aristas.En cuanto a estructura es muy similar a un tree debido a su similitud de nodos y aristas. La diferencia a los trees, es que un arbol va de un nivel jerarquico, de arriba hacia abajo. A diferencia de este tipo de grafico, que no va por niveles. <p> La Cantidad total de de Tipos de Grafos
-Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más comúnmente usado es el grafo finito, en el cual nos vamos a centrar en esta guia, aunque tambien te dejo la lista de los demas grafos y un link a una pagina que describe mas a fondo esto..</p>
+Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más comúnmente usado es el grafo finito, en el cual nos vamos a centrar en esta guia, aunque tambien te dejo la lista de los demas grafos y un link a una pagina que describe mas a fondo esto..</p>
 
 
 <li>Grafos Infinitos</li>
@@ -78,7 +78,7 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Graph%20Data%20Structure%20-%20Soni/FINITE-GRAPH-IN-GRAPHS-IN-DATA-STRUCTURE.png" width='500'>
 <h3> Finite Graph</h3>
-<p> Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
+<p> Como te mencione arriba, el tipo de grafico que mayor se utiliza, es el grafico finito. Un grafo finito es un tipo de grafo que tiene un número limitado de nodos (vértices) y aristas (enlaces)</p>
 
 <h3>Características</h3>
 <p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.A diferencia de un tree o arbol, que va de arriba hacia abajo</p>
@@ -101,15 +101,13 @@ Existen entre 14 y 15 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <li>Y por ultimo los Grafo Ponderado: Las aristas tienen un peso o costo asociado.</li>
 
-<p>Por ejemplo cuando entras a la aplicacion de mapas, para encontrar la ruta más corta entre dos puntos en un mapa. Aqui el peso va a representar la distancia entre las ciudades.</p>
+<p>Esto significa que este grafo va a tener valores no solo en los circulos, si no tambien en las lineas que conectan a estos circulos, por ejemplo cuando entras a la aplicacion de mapas, para encontrar la ruta más corta entre dos puntos en un mapa. </p>
+
+<p>Aqui el peso va a representar la distancia entre las ciudades, o el tiempo extra que puede agregarse en cada una de las opciones que tu elijas, por ejemplo cuando pides al mapa que elija la ruta mas corta en tiempo, o cuando le pides que elija la ruta mas corta en distancia, js va a considerar tambien el valor que viene en las lineas o aristas</p>
 
 <p>Los graficos tambien estan divididos de la siguiente manera</p>
 
-
-
-
-<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.<p>
-
+<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.</p>
 
 
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
