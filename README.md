@@ -3,9 +3,7 @@
 <p>Si alguna vez has intentado ingresar a leetcode como yo, y practicar para entrevistas tecnicas. Posiblemente te hayas encontrado mas de una vez que es un poco mas complejo de lo que imaginabas y eso probablemente se deba a que necesitas la teoria para poder resolver este tipo de problemas, pero en su mayoria esta explicado con conceptos que posiblemente viste pero no sabias que tenian ese nombre, encuentras toda la informacion por separado o solo practicaste en algun ejercicio en el cual no pusiste tanta atencion, para repasarlos he creado esta siguiente guia que incluye Algoritmos y estructuras de datos para dummies, como tu y como yo</p>
 
 <p>Primero vamos a definir un Algoritmo como una serie de pasos para hacer algo. Es como le vamos a indicar a js, paso a paso que es lo que queremos que haga, es decir que las instrucciones deben estar bien definidas para que lo pueda interpretar y usualmente se utilizan para resolver un problema o realizar una tarea específica. Los algoritmos son fundamentales en la programación y se pueden aplicar a una amplia gama de problemas</p>
-
-
-<p> A comparacion de una estructura de Datos: Una estructura de datos es una forma de organizar y almacenar cosas (datos) para que sea fácil encontrarlas y usarlas, la cual esta dividida de la siguiente manera: 
+<p>A comparacion de una estructura de Datos: Una estructura de datos es una forma de organizar y almacenar cosas (datos) para que sea fácil encontrarlas y usarlas, la cual esta dividida de la siguiente manera: 
 <h2>Estructuras lineales</h2>
 <p>(Representada por arrays,linked lists y strings)</p>
 
@@ -20,8 +18,6 @@
 <li>Srings</li>
 <p></p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/String_example.png" width='350'>
-
-
 
 <h2>Y las estructuras no lineales</h2> 
 <p> O como me gustan llamarlas, los que estan compuestos de circulos(nodos) y palitos(vertices)</p>
@@ -41,7 +37,6 @@
 <p>Por ejemplo, los Binary tree, son ideales para estructuras donde la eficiencia de búsqueda, inserción y eliminación es crucial, como en bases de datos y estructuras de indices</p>
 <p>los ternary-trees:Son utiles para sistemas jerárquicos más complejos que los binarios, como ciertos sistemas de archivos.</p>
 <p>Por ultimo nos n-ary trees son perfectos para estructuras con múltiples niveles de jerarquía y más de dos hijos por nodo, como menús de navegación y sistemas de archivos más complejos.</p>
-
 <h2>Despues tenemos los Graficos(graphs)</h2>
 <p>Tipos de Grafos en Estructuras de Datos
 Un grafo es una estructura de datos no lineal compuesta por nodos y aristas.En cuanto a estructura es muy similar a un tree debido a su similitud de nodos y aristas. La diferencia a los trees, es que un arbol va de un nivel jerarquico, de arriba hacia abajo. A diferencia de este tipo de grafico, que no va por niveles. <p> La Cantidad total de de Tipos de Grafos
@@ -83,8 +78,6 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 <h3>Características</h3>
 <p>Número Limitado de Nodos y Aristas: Como su nombre indica, un grafo finito tiene un número finito de nodos y aristas. Esto significa que puedes contar todos los nodos y todas las aristas del grafo.A diferencia de un tree o arbol, que va de arriba hacia abajo</p>
 
-
-
  <p>Como los grafos finitos se utilizan en una amplia variedad de aplicaciones prácticas, vamos a enfocarnos mayormente en ellos desde la modelización de redes sociales hasta la optimización de rutas de transporte.<p>
 
 
@@ -107,9 +100,10 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <p>Los graficos tambien estan divididos de la siguiente manera</p>
 
-<p>Representación: Los grafos finitos se pueden representar mediante listas de adyacencia, matrices de adyacencia o incluso mediante otros métodos específicos dependiendo del contexto.</p>
-
-
+<p>Representación: Los grafos finitos se pueden representar mediante: </p>
+<li>listas de adyacencia</li>
+<li> matrices de adyacencia</li>
+<li> o incluso mediante otros métodos específicos dependiendo del contexto.</li>
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
 
 
