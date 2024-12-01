@@ -98,12 +98,17 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <p>Aqui el peso va a representar la distancia entre las ciudades, o el tiempo extra que puede agregarse en cada una de las opciones que tu elijas, por ejemplo cuando pides al mapa que elija la ruta mas corta en tiempo, o cuando le pides que elija la ruta mas corta en distancia, js va a considerar tambien el valor que viene en las lineas o aristas</p>
 
-<p>Los graficos tambien estan divididos de la siguiente manera</p>
+<p>Acerca de los graficos debes estar consciente tambien de como se representan.</p>
 
-<p>Representación: Los grafos finitos se pueden representar mediante: </p>
+<p>Los grafos finitos se pueden representar mediante: </p>
 <li>listas de adyacencia</li>
+<p></p>
 <li> matrices de adyacencia</li>
-<li> o incluso mediante otros métodos específicos dependiendo del contexto.</li>
+<p>Una matriz de adyacencia va a representar las conexiones que hay entre nodos o circulos, es decir cuantos caminos hay de un nodo a otro</p>
+ <img src="https://matematicasies.com/local/cache-vignettes/L550xH234/maties_3461_b-0cdd9.png?1688043774" width='500'>
+
+<li> Lista de incidencia</li>
+<p></p>
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
 
 
