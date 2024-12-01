@@ -105,7 +105,7 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 <p>Este tipo de listas te va a indicar, con cuales nodos tiene conexion cada nodo, por ejemplo si el nodo a, tiene conexion con el nodo b, y te va a especificar exactamente el nodo con el que esta conectado, tambien se le llama vecinos</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Listas_de_adyacencia.jpg" width='500'>
 
-<li> matrices de adyacencia</li>
+<li> Matrices de adyacencia</li>
 <p>Una matriz de adyacencia a diferencia de una lista de adyacencia, es una matriz que va a tener dividido los nodos, en x y y, y va a representar las conexiones que hay entre nodos o circulos, es decir cuantos caminos hay de un nodo a otro, sin embargo no te especifica el nodo con el que esta conectandose</p>
  <img src="https://matematicasies.com/local/cache-vignettes/L550xH234/maties_3461_b-0cdd9.png?1688043774" width='500'>
 
@@ -113,11 +113,26 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 <p>Y tenemos una matriz de incidencia, la cual va a conectar los nodos y vertices. Es decir en el siguiente ejemplo a, esta conectado con e1,e2,e3, es decir las lineas, entonces ponemos en cada uno de los espacios de cada arista a la que esta conectada el numero 1, que es el numero de veces que esta conectado al nodo</p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qkBxu4nzfkE-WEYBXYj-YUB-dB01m3eLXw&s" width='500'>
 
+<p>Una vez que tenemos definido como podemos estructurar nuestros datos,es decir organizarlos, debes entender que hay algunos patrones y algoritmos para poder utilizar estos datos. Tu vas a ordenar o encontrar los datos ordenados, dependiendo a la necesidad del proyecto en el que te encuentres</p>
 
+<h1>Primero vamos a definir los patrones estos van a estar divididos para las dos subramas que mencionamos antes estructuras de datos lineales y patrones de estructura no lineales</h1>
+<li>Linear Data Structure/ estructura lineal</li>
+<li>Two pointers</li>
+<p>Es una tecnica que se utilizar para resolver problemas en estructuras de datos lineales como arrays,linked lists y strings)< </p>
 
+<p>La técnica de dos punteros implica el uso de dos variables de puntero (o índice) que recorren la estructura de datos desde diferentes posiciones al mismo tiempo. Los punteros pueden moverse hacia adelante, hacia atrás o en cualquier dirección, dependiendo del problema que se está resolviendo.</p>
 
-- *Linear Data Structure Patterns:*
-  1. *Two Pointers:*
+<p>Algunos de los usos de two pointers, es buscar elementos en un array que sean pares, que sumen a un valor especifico, remover duplicados de un array ordenado, encontrar subcadenas con ciertas propiedades como saber cual es el patron minimo de repeticion de elementos dentro de un array</p>
+Búsqueda de Elementos: Encontrar pares en un array que sumen a un valor específico.
+
+<p>Eliminar Duplicados: Remover duplicados de un array ordenado.<p>
+
+Subcadenas y Subarreglos: Encontrar subcadenas con ciertas propiedades (como la longitud mínima).
+
+<p>Ahora,un ejemplo a la resolucion a este tipo de problemas es el brute force approach, la segunda es el optimal approach</p>
+
+  <p>
+  <p>Escanea cada elemento de los datos que tengas, estos datos pueden estar dentro de </p>
      - Reduces time complexity to linear time \(O(n)\).
      - Two methods:
        - Same direction: used for scanning data in a single pass (e.g., fast and slow pointers to detect cycles or find middle elements).
@@ -165,19 +180,7 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <p><img src=windowsliding.jpg,jpeg></p>
 
-<li>Two pointers</li>
-<p>Es una tecnica que se utilizar para resolver problemas en estructuras de datos lineales como arrays y listas enlazadas. </p>
 
-<p>La técnica de dos punteros implica el uso de dos variables de puntero (o índice) que recorren la estructura de datos desde diferentes posiciones al mismo tiempo. Los punteros pueden moverse hacia adelante, hacia atrás o en cualquier dirección, dependiendo del problema que se está resolviendo.</p>
-
-<p>Usos Comunes de Dos Punteros</p>
-Búsqueda de Elementos: Encontrar pares en un array que sumen a un valor específico.
-
-<p>Eliminar Duplicados: Remover duplicados de un array ordenado.<p>
-
-Subcadenas y Subarreglos: Encontrar subcadenas con ciertas propiedades (como la longitud mínima).
-
-<p>Ahora,un ejemplo a la resolucion a este tipo de problemas es el brute force approach, la segunda es el optimal approach</p>
 
 <li>binary search</li>
 <p>Binary search o búsqueda binaria es un algoritmo eficiente para encontrar un elemento en una lista ordenada. Funciona dividiendo repetidamente el espacio de búsqueda a la mitad hasta que se encuentra el elemento deseado o se determina que no está en la lista.</p>
