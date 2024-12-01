@@ -1,4 +1,4 @@
-# Interviewspracticejs/Algoritmos y estructura de datos para dummies
+# Algoritmos y estructura de datos para dummies
 
 <p>Si alguna vez has intentado ingresar a leetcode como yo, y practicar para entrevistas tecnicas. Posiblemente te hayas encontrado mas de una vez que es un poco mas complejo de lo que imaginabas y eso probablemente se deba a que necesitas la teoria para poder resolver este tipo de problemas, pero en su mayoria esta explicado con conceptos que posiblemente viste pero no sabias que tenian ese nombre, encuentras toda la informacion por separado o solo practicaste en algun ejercicio en el cual no pusiste tanta atencion, para repasarlos he creado esta siguiente guia que incluye Algoritmos y estructuras de datos para dummies, como tu y como yo</p>
 
