@@ -115,8 +115,8 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <p>Una vez que tenemos definido como podemos estructurar nuestros datos,es decir organizarlos, debes entender que hay algunos patrones y algoritmos para poder utilizar estos datos. Tu vas a ordenar o encontrar los datos ordenados, dependiendo a la necesidad del proyecto en el que te encuentres</p>
 
-<h1>Primero vamos a definir los patrones estos van a estar divididos para las dos subramas que mencionamos antes estructuras de datos lineales y patrones de estructura no lineales</h1>
-<li>Linear Data Structure/ estructura lineal</li>
+<p>Primero vamos a definir los patrones estos van a estar divididos para las dos subramas que mencionamos antes estructuras de datos lineales y patrones de estructura no lineales</p>
+<h1>Linear Data Structure/ estructura lineal</h1>
 <li>Two pointers</li>
 <p>Es una tecnica que se utilizar para resolver problemas en estructuras de datos lineales como arrays,linked lists y strings)< </p>
 
