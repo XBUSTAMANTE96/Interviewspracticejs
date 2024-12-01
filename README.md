@@ -103,15 +103,15 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 <p>Los grafos finitos se pueden representar mediante: </p>
 <li>listas de adyacencia</li>
 <p>Este tipo de listas te va a indicar, con cuales nodos tiene conexion cada nodo, por ejemplo si el nodo a, tiene conexion con el nodo b, y te va a especificar exactamente el nodo con el que esta conectado, tambien se le llama vecinos</p>
- <img src="https://www.researchgate.net/profile/Santiago-Bianco/publication/309278789/figure/fig14/AS:750920426086401@1556044789767/Grafo-dirigido-con-su-representacion-como-lista-de-adyacencia.ppm" width='500'>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Listas_de_adyacencia.jpg" width='500'>
 
 <li> matrices de adyacencia</li>
 <p>Una matriz de adyacencia a diferencia de una lista de adyacencia, es una matriz que va a tener dividido los nodos, en x y y, y va a representar las conexiones que hay entre nodos o circulos, es decir cuantos caminos hay de un nodo a otro, sin embargo no te especifica el nodo con el que esta conectandose</p>
  <img src="https://matematicasies.com/local/cache-vignettes/L550xH234/maties_3461_b-0cdd9.png?1688043774" width='500'>
 
-<li> Lista de incidencia</li>
-<p></p>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png" width='500'>
+<li> Matriz de incidencia</li>
+<p>Y tenemos una matriz de incidencia, la cual va a conectar los nodos y vertices. Es decir en el siguiente ejemplo a, esta conectado con e1,e2,e3, es decir las lineas, entonces ponemos en cada uno de los espacios de cada arista a la que esta conectada el numero 1, que es el numero de veces que esta conectado al nodo</p>
+  <img src="[https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qkBxu4nzfkE-WEYBXYj-YUB-dB01m3eLXw&s)" width='500'>
 
 
 
