@@ -111,7 +111,7 @@ Existen entre 15 y 16 tipos de grafos. Sin embargo, el tipo de grafo más común
 
 <li> Matriz de incidencia</li>
 <p>Y tenemos una matriz de incidencia, la cual va a conectar los nodos y vertices. Es decir en el siguiente ejemplo a, esta conectado con e1,e2,e3, es decir las lineas, entonces ponemos en cada uno de los espacios de cada arista a la que esta conectada el numero 1, que es el numero de veces que esta conectado al nodo</p>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qTGoz5zljOdQEzlzf7N-Mw.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qkBxu4nzfkE-WEYBXYj-YUB-dB01m3eLXw&s" width='500'>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qkBxu4nzfkE-WEYBXYj-YUB-dB01m3eLXw&s" width='500'>
 
 
 
